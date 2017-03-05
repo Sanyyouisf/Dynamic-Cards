@@ -1,0 +1,59 @@
+.btn {
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 49px;
+  background: #a234d9;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin: 30px;
+  display: inline-block;
+}
+.dBtn {
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #a234d9;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin: 30px;
+  display: inline-block;
+}
+}
+
+.btn:hover {
+  background: #17e65f;
+  text-decoration: none;
+}
+
+#text {
+	height: 50px;
+	width: 400px;
+	background-color: lightgreen;
+	font: blue;
+	font-size: 40px;
+	margin:25px;
+}
+
+.output {
+	background-color: green;
+	width: 150px;
+	height: 150px;
+	 margin-left: 20px;
+	 margin-top: 20px; 
+	border: 2px blue solid;
+	display: inline-block;
+}
+
+
+
+
+
+
+
+
